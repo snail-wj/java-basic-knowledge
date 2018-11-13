@@ -5,7 +5,7 @@ import org.joda.time.format.DateTimeFormat;
 import org.junit.Test;
 
 /**
- * @author wangjing06 <wangjing06@kuaishou.com>
+ * @author wangjing
  * Created on 2018-11-13
  */
 public class ToolDemo {
